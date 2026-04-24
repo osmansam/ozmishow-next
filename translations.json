@@ -1,0 +1,22 @@
+{
+  "EN": {
+    "deleteConfirm": "Are you sure you want to delete?",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "contactForm": "Contact Form",
+    "search": "Search"
+  },
+  "TR": {
+    "deleteConfirm": "Silmek istediğinize emin misiniz?",
+    "confirm": "Onayla",
+    "cancel": "İptal",
+    "address": "Adres",
+    "phone": "Telefon",
+    "email": "Email",
+    "contactForm": "İletişim Formu",
+    "search": "Ara"
+  }
+}
